@@ -4,17 +4,18 @@ p {
 }
 */
 
-/*
+
 .project p {
     font-variant: small-caps;
 }
-*/
 
-/*
+
+
 #project1 {
     font-variant: small-caps;
 }
-*/
+
+
 
 
 .project {
@@ -23,6 +24,7 @@ p {
     padding: 20px;
     width: 525px;
 }
+
 
 
 /* applies to anything of class "example-class-selector" */
